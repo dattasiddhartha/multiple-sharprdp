@@ -1,0 +1,11 @@
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\bin\Debug\SharpRDP.exe.config
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\bin\Debug\SharpRDP.exe
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\bin\Debug\SharpRDP.pdb
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\bin\Debug\AxInterop.MSTSCLib.dll
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\SharpRDP.csprojAssemblyReference.cache
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\Interop.MSTSCLib.dll
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\SharpRDP.csproj.ResolveComReference.cache
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\SharpRDP.csproj.CoreCompileInputs.cache
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\SharpRDP.csproj.CopyComplete
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\SharpRDP.exe
+D:\OneDrive backups\modux\cli2\SharpRDP\SharpRDP\obj\Debug\SharpRDP.pdb

@@ -1,0 +1,4 @@
+ip,username,password,command,time_delay,mode
+192.168.56.101,sdux,23599331,calc.exe,5000,
+192.168.56.101,sdux,23599331,calc.exe,5000,cmd
+192.168.56.101,sdux,23599331,cmd /c 'calc.exe',5000,winr
